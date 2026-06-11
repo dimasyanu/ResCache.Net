@@ -1,6 +1,0 @@
-@ResCache.Net_HostAddress = http://localhost:5133
-
-GET {{ResCache.Net_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
