@@ -1,0 +1,164 @@
+[
+  {
+    "path": "/api/generate/v1",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:10:50.8666221+00:00",
+    "expiredAt": "2026-06-28T08:40:50.8666221+00:00"
+  },
+  {
+    "path": "/api/generate/v2",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:10:50.9434849+00:00",
+    "expiredAt": "2026-06-28T08:40:50.9434849+00:00"
+  },
+  {
+    "path": "/api/generate/custom/v1",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:12:12.1200000+00:00",
+    "expiredAt": "2026-06-28T08:42:12.1200000+00:00"
+  },
+  {
+    "path": "/api/generate/custom/v2",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:13:06.2200000+00:00",
+    "expiredAt": "2026-06-28T08:43:06.2200000+00:00"
+  },
+  {
+    "path": "/api/generate/custom/preview/v1",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:14:10.1000000+00:00",
+    "expiredAt": "2026-06-28T08:29:10.1000000+00:00"
+  },
+  {
+    "path": "/api/users",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:11:00.0000000+00:00",
+    "expiredAt": "2026-06-28T08:16:00.0000000+00:00"
+  },
+  {
+    "path": "/api/users/list/v1",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:11:15.0000000+00:00",
+    "expiredAt": "2026-06-28T08:16:15.0000000+00:00"
+  },
+  {
+    "path": "/api/users/list/v2",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:11:40.0000000+00:00",
+    "expiredAt": "2026-06-28T08:16:40.0000000+00:00"
+  },
+  {
+    "path": "/api/users/details/42",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:12:00.0000000+00:00",
+    "expiredAt": "2026-06-28T08:27:00.0000000+00:00"
+  },
+  {
+    "path": "/api/users/details/84",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:12:30.0000000+00:00",
+    "expiredAt": "2026-06-28T08:27:30.0000000+00:00"
+  },
+  {
+    "path": "/api/orders",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:09:50.0000000+00:00",
+    "expiredAt": "2026-06-28T08:14:50.0000000+00:00"
+  },
+  {
+    "path": "/api/orders/recent/v1",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:10:20.0000000+00:00",
+    "expiredAt": "2026-06-28T08:15:20.0000000+00:00"
+  },
+  {
+    "path": "/api/orders/recent/v2",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:10:40.0000000+00:00",
+    "expiredAt": "2026-06-28T08:15:40.0000000+00:00"
+  },
+  {
+    "path": "/api/orders/details/1001",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:11:05.0000000+00:00",
+    "expiredAt": "2026-06-28T08:26:05.0000000+00:00"
+  },
+  {
+    "path": "/api/orders/details/1002",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:11:25.0000000+00:00",
+    "expiredAt": "2026-06-28T08:26:25.0000000+00:00"
+  },
+  {
+    "path": "/api/products",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:08:00.0000000+00:00",
+    "expiredAt": "2026-06-28T09:08:00.0000000+00:00"
+  },
+  {
+    "path": "/api/products/list/v1",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:08:20.0000000+00:00",
+    "expiredAt": "2026-06-28T09:08:20.0000000+00:00"
+  },
+  {
+    "path": "/api/products/list/v2",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:08:40.0000000+00:00",
+    "expiredAt": "2026-06-28T09:08:40.0000000+00:00"
+  },
+  {
+    "path": "/api/products/category/electronics",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:09:10.0000000+00:00",
+    "expiredAt": "2026-06-28T08:24:10.0000000+00:00"
+  },
+  {
+    "path": "/api/products/category/books",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:09:30.0000000+00:00",
+    "expiredAt": "2026-06-28T08:24:30.0000000+00:00"
+  },
+  {
+    "path": "/api/products/category/furniture",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:09:50.0000000+00:00",
+    "expiredAt": "2026-06-28T08:24:50.0000000+00:00"
+  },
+  {
+    "path": "/api/reports/daily/v1",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:13:50.0000000+00:00",
+    "expiredAt": "2026-06-28T08:18:50.0000000+00:00"
+  },
+  {
+    "path": "/api/reports/daily/v2",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:14:20.0000000+00:00",
+    "expiredAt": "2026-06-28T08:19:20.0000000+00:00"
+  },
+  {
+    "path": "/api/reports/weekly/v1",
+    "policyName": "medium",
+    "cachedAt": "2026-06-28T08:07:50.0000000+00:00",
+    "expiredAt": "2026-06-28T08:22:50.0000000+00:00"
+  },
+  {
+    "path": "/api/reports/monthly/v1",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:05:50.0000000+00:00",
+    "expiredAt": "2026-06-28T09:05:50.0000000+00:00"
+  },
+  {
+    "path": "/api/system/health",
+    "policyName": "short",
+    "cachedAt": "2026-06-28T08:15:10.0000000+00:00",
+    "expiredAt": "2026-06-28T08:20:10.0000000+00:00"
+  },
+  {
+    "path": "/api/system/config/public",
+    "policyName": "long",
+    "cachedAt": "2026-06-28T08:04:00.0000000+00:00",
+    "expiredAt": "2026-06-28T09:04:00.0000000+00:00"
+  }
+]
